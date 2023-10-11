@@ -1,3 +1,2 @@
 ## About Me
-My brithday is on January 1, 2004.
-
+My birthday is on January 1, 2004.
